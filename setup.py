@@ -28,7 +28,7 @@ CHANGES = open(os.path.join(os.path.dirname(__file__), 'CHANGES.md')).read()
 
 setup(
     name='apns2-client',
-    version='0.5.3',
+    version='0.5.4',
     packages=['apns2'],
     include_package_data=True,
     license='MIT License',
